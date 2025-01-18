@@ -1,0 +1,4 @@
+1) Unstaged (Not staged) - Dirty unsaved code
+2) Staged - Code to be saved
+3) Committed - Creating savepoints for application
+4) Pushed - Pushing/saving to remote git repository
